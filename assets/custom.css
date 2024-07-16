@@ -1,0 +1,35 @@
+.container {
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+}
+
+.row {
+    margin-left: 50px !important;
+    margin-right: 50px !important;
+}
+
+.custom-column {
+    background-color: #f2dab8; /* Replace with your desired color */
+    padding: 15px; /* Optional: Add some padding */
+    border: 1px solid #ccc; /* Optional: Add a border */
+    border-radius: 15px; /* Optional: Add rounded corners */
+    margin: 20px; /* Add space between the rows */
+}
+
+.graph-container {
+    width: 100%;  /* Adjust as necessary */
+    overflow: hidden;  /* Prevent overflow */
+    padding: 10px;  /* Add padding if needed */
+    box-sizing: border-box;  /* Ensure padding and border are included in the element's total width and height */
+}
+
+.tabulka {
+    /*background-color: rgba(255, 255, 255, 0);  Transparent background */
+    background-color: #f2dab8; 
+}
+
+.ag-theme-alpine {
+    background-color: #f2dab8; 
+    border: none; /* Remove border if needed */
+}
+
