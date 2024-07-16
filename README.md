@@ -6,3 +6,8 @@ Pro první aktualizaci spusťte pouze run_scripts.sh. Pro každou další aktual
 Dashboard se spouští pomocí python3 app_dash.py.
 
 (Na zpřehlednění a zjednodušení kódu se pracuje :-))
+
+
+![My Image Description](bga1.png)
+![My Image Description](bga2.png)
+![My Image Description](bga3.png)
