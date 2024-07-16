@@ -11,3 +11,5 @@ Dashboard se spouští pomocí python3 app_dash.py.
 ![My Image Description](bga1.png)
 ![My Image Description](bga2.png)
 ![My Image Description](bga3.png)
+![My Image Description](bga4.png)
+![My Image Description](bga5.png)
