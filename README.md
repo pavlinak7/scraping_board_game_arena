@@ -3,7 +3,7 @@ Získání dat konkrétního uživatele BGA, jejich uložení do .csv souborů i
 
 Získání informací je rozděleno do několika kroků. Pro první aktualizaci spusťte pouze run_scripts.sh. Pro každou další aktualizace spusťte aktualizace.sh a následně run_scripts_aktualizace.sh.
 
-Dashboard se spouští pomocí python3 app_dash.py.
+Dashboard se spouští pomocí python3 app_dash.py a potřebuje pouze csv soubory ze složky "aktualizace" a funkcee.py.
 
 (Na zpřehlednění a zjednodušení kódu se pracuje :-))
 
