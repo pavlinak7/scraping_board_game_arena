@@ -5,6 +5,8 @@ Získání informací je rozděleno do několika kroků. Pro první aktualizaci 
 
 Dashboard se spouští pomocí python3 app_dash.py a potřebuje pouze csv soubory ze složky "aktualizace" a funkcee.py.
 
+[Minutová ukázka](https://github.com/pavlinak7/scraping_board_game_arena/blob/main/ukazka.mkv) 
+
 (Na zpřehlednění a zjednodušení kódu se pracuje :-))
 
 
@@ -14,5 +16,5 @@ Dashboard se spouští pomocí python3 app_dash.py a potřebuje pouze csv soubor
 ![My Image Description](bga4.png)
 ![My Image Description](bga5.png)
 
-[Minutová ukázka](https://github.com/pavlinak7/scraping_board_game_arena/blob/main/ukazka.mkv) 
+
 
