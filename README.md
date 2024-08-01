@@ -15,5 +15,3 @@ Dashboard se spouští pomocí python3 app_dash.py a potřebuje pouze csv soubor
 ![My Image Description](bga5.png)
 
 [Watch the video](https://github.com/pavlinak7/scraping_board_game_arena/blob/main/ukazka.webm)
-<iframe width="560" height="315" src="https://github.com/pavlinak7/scraping_board_game_arena/blob/main/ukazka.webm" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
