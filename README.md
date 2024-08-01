@@ -14,6 +14,6 @@ Dashboard se spouští pomocí python3 app_dash.py a potřebuje pouze csv soubor
 ![My Image Description](bga4.png)
 ![My Image Description](bga5.png)
 
-[Watch the video]([https://github.com/yourusername/yourrepo/raw/main/path/to/your/video.mp4](https://github.com/pavlinak7/scraping_board_game_arena/blob/main/ukazka.webm))
+[Watch the video](https://github.com/pavlinak7/scraping_board_game_arena/blob/main/ukazka.webm)
 
 
