@@ -9,8 +9,6 @@ Dashboard se spouští pomocí python3 app_dash.py a potřebuje pouze csv soubor
 
 [Minutová ukázka](https://github.com/pavlinak7/scraping_board_game_arena/blob/main/ukazka.mkv) 
 
-(Na zpřehlednění a zjednodušení kódu se pracuje :-))
-
 
 ![My Image Description](bga1.png)
 ![My Image Description](bga2.png)
